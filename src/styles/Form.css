@@ -1,0 +1,27 @@
+#sortingAlgorithm
+{
+    margin-left: 2vh;
+    margin-right: 1vh;
+}
+
+#count
+{
+    margin-right: 1vh;
+}
+
+#generateButton
+{
+    background-color: rgb(233, 127, 183);
+    color : white;
+    border: transparent;
+    border-radius: 1vh;
+    margin-left : 0.9vh;
+    margin-right: 48vh;
+
+
+}
+
+#generateButton:hover
+{
+    opacity: 80%;
+}
